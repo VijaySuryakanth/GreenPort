@@ -1,0 +1,4 @@
+com\oracle\oci\stream2fn\ObjectInfo.class
+com\oracle\oci\stream2fn\ProcessMessage.class
+com\oracle\oci\stream2fn\ProcessMessagefn.class
+com\oracle\oci\stream2fn\Configuration.class

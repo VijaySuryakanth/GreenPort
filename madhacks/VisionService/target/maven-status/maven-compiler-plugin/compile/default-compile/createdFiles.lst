@@ -1,0 +1,9 @@
+com\oracle\oci\visionservice\Constants.class
+com\oracle\oci\visionservice\AnalyzeImageExample.class
+com\oracle\oci\visionservice\ImageAnalyze.class
+com\oracle\oci\visionservice\ParseJson.class
+com\oracle\oci\visionservice\AnalyzeDocumentExample.class
+com\oracle\oci\visionservice\AnalyzeDocumentBatchExample.class
+com\oracle\oci\visionservice\AnalyzeImageBatchExample.class
+com\oracle\oci\visionservice\CustomModelTrainingExample.class
+.netbeans_automatic_build

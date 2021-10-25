@@ -1,0 +1,13 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaakpa3klyfbdwprdej3tvov742attpkeb5rv6xp3y2poibwnwqn3bq
+fingerprint=05:61:63:8b:e5:4f:1c:a1:a9:58:85:64:d7:3f:0e:37
+tenancy=ocid1.tenancy.oc1..aaaaaaaaxn3r3dh3lh5n5hyo6tkbtmwjvr4wzlahs3u76c4enhckxhy4kpaa
+region=eu-frankfurt-1
+key_file=C:/lift/SRs/dockersh/dev-sdk/keys/pem/user_api_private.pem
+
+[MH_Tenancy_Profile]
+user=ocid1.user.oc1..aaaaaaaamag24d2tjfh7hhpqfemum6wcyvfnhhi6ymjuzf7ectrqlmjhjrfq
+fingerprint=05:61:63:8b:e5:4f:1c:a1:a9:58:85:64:d7:3f:0e:37
+tenancy=ocid1.tenancy.oc1..aaaaaaaawk5svfbo5jgqcio2z6tdgctge73hn7ctfmxmtjfbnxytttdpo3bq
+region=ap-hyderabad-1
+key_file=C:/lift/SRs/dockersh/dev-sdk/keys/pem/user_api_private.pem
